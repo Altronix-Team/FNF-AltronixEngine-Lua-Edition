@@ -1,0 +1,8 @@
+export/
+*.zip
+AltronixEngine.code-workspace
+deleted
+-_.txt
+source/GJKeys.hx
+dump
+.haxelib
